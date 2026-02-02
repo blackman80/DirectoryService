@@ -4,6 +4,11 @@ namespace DirectoryService.Presentation;
 
 [ApiController]
 [Route("[controller]")]
-public class Controller : ControllerBase
+public class LocationsController : ControllerBase
 {
+    [HttpGet]
+    public void Test()
+    {
+        
+    }
 }
