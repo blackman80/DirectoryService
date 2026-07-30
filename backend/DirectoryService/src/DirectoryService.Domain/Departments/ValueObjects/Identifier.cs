@@ -3,7 +3,7 @@ using CSharpFunctionalExtensions;
 
 namespace DirectoryService.Domain.Departments.ValueObjects;
 
-public record Identifier
+public record Identifier //это можно удалять раз есть Slug?
 {
     public const int MaxLength = 150;
     public const int MinLength = 3;
@@ -27,9 +27,7 @@ public record Identifier
             || value.Length < MinLength
             || value.Length > MaxLength
             || !IdentifierRegex.IsMatch(value))
-        {
             return Result.Failure<Identifier>("Invalid Identifier");
-        }
 
         return new Identifier(value);
     }
