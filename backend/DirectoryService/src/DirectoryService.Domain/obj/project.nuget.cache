@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zep/tO6n8a4=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\template-service\\backend\\DirectoryService\\src\\DirectoryService.Domain\\DirectoryService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\asyncfixer\\2.1.0\\asyncfixer.2.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\csharpfunctionalextensions\\3.6.0\\csharpfunctionalextensions.3.6.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\meziantou.analyzer\\3.0.44\\meziantou.analyzer.3.0.44.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\roslynator.analyzers\\4.15.0\\roslynator.analyzers.4.15.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\sonaranalyzer.csharp\\10.24.0.138807\\sonaranalyzer.csharp.10.24.0.138807.nupkg.sha512"
+  ],
+  "logs": []
+}

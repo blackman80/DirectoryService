@@ -1,0 +1,16 @@
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\bin\Debug\net10.0\DirectoryService.Application.deps.json
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\bin\Debug\net10.0\DirectoryService.Application.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\bin\Debug\net10.0\DirectoryService.Application.pdb
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.csproj.AssemblyReference.cache
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.AssemblyInfoInputs.cache
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.AssemblyInfo.cs
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.csproj.CoreCompileInputs.cache
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.sourcelink.json
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\Director.58716C78.Up2Date
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\refint\DirectoryService.Application.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\DirectoryService.Application.pdb
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\obj\Debug\net10.0\ref\DirectoryService.Application.dll
+c:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\bin\Debug\net10.0\DirectoryService.Contracts.dll
+c:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Application\bin\Debug\net10.0\DirectoryService.Contracts.pdb

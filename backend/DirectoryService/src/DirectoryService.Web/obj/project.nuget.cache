@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAg8lebGeV8=",
+  "success": false,
+  "projectFilePath": "C:\\Projects\\template-service\\backend\\DirectoryService\\src\\DirectoryService.Web\\DirectoryService.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\asyncfixer\\2.1.0\\asyncfixer.2.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\csharpfunctionalextensions\\3.6.0\\csharpfunctionalextensions.3.6.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\meziantou.analyzer\\3.0.44\\meziantou.analyzer.3.0.44.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\roslynator.analyzers\\4.15.0\\roslynator.analyzers.4.15.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\scalar.aspnetcore\\2.14.0\\scalar.aspnetcore.2.14.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\sonaranalyzer.csharp\\10.24.0.138807\\sonaranalyzer.csharp.10.24.0.138807.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Error",
+      "message": "Warning As Error: Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Projects\\template-service\\backend\\DirectoryService\\src\\DirectoryService.Web\\DirectoryService.Web.csproj",
+      "filePath": "C:\\Projects\\template-service\\backend\\DirectoryService\\src\\DirectoryService.Web\\DirectoryService.Web.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

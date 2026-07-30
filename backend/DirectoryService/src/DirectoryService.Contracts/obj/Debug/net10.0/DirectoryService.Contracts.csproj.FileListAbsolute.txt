@@ -1,0 +1,12 @@
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\bin\Debug\net10.0\DirectoryService.Contracts.deps.json
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\bin\Debug\net10.0\DirectoryService.Contracts.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\bin\Debug\net10.0\DirectoryService.Contracts.pdb
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.AssemblyInfoInputs.cache
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.AssemblyInfo.cs
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.sourcelink.json
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\refint\DirectoryService.Contracts.dll
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\DirectoryService.Contracts.pdb
+C:\Projects\template-service\backend\DirectoryService\src\DirectoryService.Contracts\obj\Debug\net10.0\ref\DirectoryService.Contracts.dll
